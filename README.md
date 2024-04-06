@@ -51,4 +51,4 @@ ORDER BY AvgRating DESC
 
 More can be viewed from the  " SQL  Assignment 2 " file 
 
-
+THANK YOU
