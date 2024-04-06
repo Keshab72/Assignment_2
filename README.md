@@ -8,6 +8,10 @@ You work for a data analytics company, and your client is a food delivery platfo
 ## Dataset:-
 Jomato.csv file can be downloaded from the file section 
 
+## Tools Used:- 
+- Excel:- For Data Cleaning.
+- MS SQL:- For Data Analysis.
+
 ## Tasks to be performed:
 
 1. Create a user-defined functions to stuff the Chicken into ‘Quick Bites’. Eg: ‘Quick Chicken Bites’.
